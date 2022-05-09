@@ -2,7 +2,9 @@
 layout: post
 title: My third post
 author: Pertti
+descripion: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum accusantium fugit, quo dolorem distinctio maxime iure doloribus minus. 
 categories: [hockey, pittsburgh] 
+featured_image: /images/blog-image-1.jpg
 ---
 
 ## Lets see Pittsburgh

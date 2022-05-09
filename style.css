@@ -15,6 +15,21 @@ section {
 
 .intro {
     text-transform: uppercase;
-    background-color: grey;
-    
+    background-color: rgb(211, 149, 149);
+}
+
+/* background image styles */
+
+.bg-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.square {
+    padding-bottom: 100%;
+}
+
+.landscape {
+    padding-bottom: 60%;
 }
