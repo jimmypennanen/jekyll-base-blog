@@ -2,7 +2,7 @@
 layout: post
 title: My second post
 author: Pabben
-descripion: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum accusantium fugit, quo dolorem distinctio maxime iure doloribus minus. 
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum accusantium fugit, quo dolorem distinctio maxime iure doloribus minus. 
 categories: [hockey, nyr, kaapo] 
 featured_image: /images/blog-image-3.jpg
 ---
